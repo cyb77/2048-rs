@@ -10,10 +10,10 @@ edition = "2021"
 
 [dependencies]
 matrix_display = "1.0.0"
-rand = "0.8.4"
+rand = "0.8.5"
 
 clippy = { version = "*", optional = true }
-crossterm = "0.23.0"
+crossterm = "0.23.2"
 rand_xoshiro = "0.6.0"
 
 [features]
